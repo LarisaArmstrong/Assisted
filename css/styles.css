@@ -1,0 +1,68 @@
+.heading {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h1 {
+  margin: 0 auto;
+  padding-top: 50px;
+  font-family: "Helvetica", sans-serif;
+  font-size: 32px;
+  color: darkred;
+  
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+img {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.crack {
+  width: 15%;
+  height: 20%;
+  text-align: center;
+  padding: 30px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  font-family: "Helvetica", sans-serif;
+  background-color: darkred;
+  color: white;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: darksalmon;
+  color: white;
+  transition: background-color 0.5s;
+  cursor: pointer;
+}
+
+.form {
+  width: 100%;
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+  margin-bottom: 50px;
+}
+
+select {
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+}
+
+#crack {
+ text-align: center;
+  margin: 0 auto;
+  color: coral;
+  font-family: "Helvetica", sans-serif;
+}
+
+
+
